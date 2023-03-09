@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifeCalculator</string>
+    <string name="calculate_btn">Calculate</string>
+    <string name="age_hint">Your age...</string>
+</resources>
